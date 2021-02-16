@@ -41,12 +41,23 @@ for name in fruitNames {
 print(fruitNames[1])
 
 
+
+
+
+
 //part 9
 
 var roomVroom = [String]()
 
-roomVroom = []
+roomVroom = ["McLaren P1", "Ferrari LaFerrari", "ZenvoTS1 GT", "Koenigsegg One", "McLaren Speedtail", "Lamborghini Sesto Elemento", "Ferrari LaFerrari Aperta", "Aston Martin Vulcan"]
 
+for car in roomVroom {
+    
+    
+    
+    print(car + " is a very expensive car")
+}
 
+print(roomVroom[0])
 
 
